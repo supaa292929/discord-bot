@@ -29,8 +29,8 @@ EMBED_IMAGE = "https://i.ytimg.com/vi/PCyQPRZqXgE/maxresdefault.jpg"  # Large im
 WELCOME_CHANNEL_ID = 1457842396636123197  # Replace with your welcome channel ID
 WELCOME_TITLE = "Welcome to Otaku Paradise!"
 WELCOME_MESSAGE = "{member}"  # {member} = mention
-WELCOME_COLOR = 0xd85fee   # Green
-WELCOME_IMAGE = None  # Set to a URL or None
+WELCOME_COLOR = 0xd85fee  # Purple-pink
+WELCOME_IMAGE = "https://a.storyblok.com/f/178900/2880x1620/6f3b396854/bb03d5efdaccdd35e7781ac76bd3651d1681914997_main.jpg/m/filters:quality(95)format(webp)"
 # =============================================
 
 # ============== BOOSTER MESSAGE ==============
