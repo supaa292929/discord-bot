@@ -27,9 +27,9 @@ EMBED_IMAGE = "https://i.ytimg.com/vi/PCyQPRZqXgE/maxresdefault.jpg"  # Large im
 
 # ============== WELCOME MESSAGE ==============
 WELCOME_CHANNEL_ID = 1457842396636123197  # Replace with your welcome channel ID
-WELCOME_TITLE = "Welcome to the server!"
-WELCOME_MESSAGE = "Hey {member}, glad to have you here! 🎉"  # {member} = mention
-WELCOME_COLOR = 0x2ECC71  # Green
+WELCOME_TITLE = "Welcome to Otaku Paradise!"
+WELCOME_MESSAGE = "{member}"  # {member} = mention
+WELCOME_COLOR = 0xd85fee   # Green
 WELCOME_IMAGE = None  # Set to a URL or None
 # =============================================
 
